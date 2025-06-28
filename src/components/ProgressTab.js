@@ -1,0 +1,1 @@
+export default function ProgressTab() { return <div>Progress</div>; }
